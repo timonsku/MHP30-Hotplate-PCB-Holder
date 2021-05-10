@@ -5,4 +5,4 @@ The Fusion design is parametrized, you can increase the size of it easily by adj
 The current design uses M4 bolts everywhere (previously M3). The bolts are totally optional, depending on the tolerance of your printer it should work fine with the press fit. You can increase the press fit tightness with some tape if necessary.
 
 ![Holder in action](image.jpg)
-![Holder with legs](pcb-holder-v11.png)
+![Holder with legs](pcb-holder-v14.png)
