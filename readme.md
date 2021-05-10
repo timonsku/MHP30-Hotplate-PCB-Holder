@@ -3,3 +3,4 @@ You can buy the hotplate itself here (affiliate): https://s.click.aliexpress.com
 The Fusion design is parametrized, you can increase the size of it easily by adjusting the user parameter `cageDistance`.
 
 ![Holder in action](image.jpg)
+![Holder with legs](pcb-holder-v11.png)
